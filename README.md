@@ -63,11 +63,11 @@ Customers were grouped into *Low, Medium, High, and Critical* retention-priority
 
 ```text
 retail-customer-churn-analysis/
-├── retail_customer_churn_analysis.ipynb
-├── retail_customer_churn_100K.csv
 ├── README.md
+├── retail_customer_churn_analysis_Report.pdf
 ├── requirements.txt
-└── Retail_Customer_Churn_Analysis_Report.pdf
+├── retail_customer_churn_analysis.ipynb
+└── retail_customer_churn_100K.csv
 
 ## 📈 What This Project Demonstrates
 
